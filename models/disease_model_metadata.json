@@ -1,0 +1,100 @@
+{
+  "model_type": "XGBClassifier",
+  "params": {
+    "n_estimators": 996,
+    "max_depth": 3,
+    "learning_rate": 0.08508482805353752,
+    "subsample": 0.8162142236846023,
+    "colsample_bytree": 0.6715647001495056,
+    "reg_alpha": 2.044241013835099,
+    "reg_lambda": 3.625213697502447,
+    "min_child_weight": 4,
+    "random_state": 42,
+    "use_label_encoder": false,
+    "eval_metric": "mlogloss"
+  },
+  "metrics": {
+    "train": {
+      "f1_weighted": 1.0,
+      "recall_critical": 1.0
+    },
+    "val": {
+      "f1_weighted": 0.9067,
+      "recall_critical": 0.9333
+    },
+    "test": {
+      "f1_weighted": 0.7758,
+      "recall_critical": 0.7667
+    }
+  },
+  "feature_columns": [
+    "rainfall_mm_seasonal",
+    "temp_max_avg_C",
+    "temp_min_avg_C",
+    "humidity_avg_pct",
+    "dry_spell_days",
+    "rainfall_deviation_pct",
+    "onset_monsoon_deviation_days",
+    "fog_days",
+    "soil_pH",
+    "organic_carbon_pct",
+    "nitrogen_kg_ha",
+    "phosphorus_kg_ha",
+    "potassium_kg_ha",
+    "soil_moisture_pct",
+    "ec_dS_m",
+    "sowing_date_deviation",
+    "fertilizer_kg_ha",
+    "pesticide_applications",
+    "ndvi_sowing",
+    "ndvi_peak",
+    "ndvi_delta",
+    "ndvi_stress_weeks",
+    "humidity_streak_days",
+    "temp_disease_window",
+    "prev_season_disease",
+    "pest_alert_issued",
+    "rainfall_adequacy_ratio",
+    "growing_degree_days",
+    "vapour_pressure_deficit",
+    "soil_crop_suitability_score",
+    "irrigation_efficiency_score",
+    "pest_pressure_index",
+    "yield_lag_1yr",
+    "ndvi_anomaly",
+    "crop_name_encoded",
+    "irrigation_type_encoded",
+    "seed_variety_encoded",
+    "previous_crop_encoded",
+    "season_encoded",
+    "soil_type_Deep Black Cotton",
+    "soil_type_Laterite",
+    "soil_type_Medium Black",
+    "soil_type_Red",
+    "soil_type_Red Laterite",
+    "division_Aurangabad",
+    "division_Konkan",
+    "division_Nagpur",
+    "division_Nashik",
+    "division_Pune"
+  ],
+  "label_order": [
+    "Low",
+    "Medium",
+    "High",
+    "Critical"
+  ],
+  "top_features": [
+    "humidity_streak_days",
+    "prev_season_disease",
+    "ndvi_stress_weeks",
+    "pest_alert_issued",
+    "pest_pressure_index",
+    "season_encoded",
+    "irrigation_efficiency_score",
+    "temp_disease_window",
+    "soil_type_Red Laterite",
+    "division_Nagpur"
+  ],
+  "n_train_samples": 1692
+}

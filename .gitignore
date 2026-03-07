@@ -1,0 +1,35 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+venv/
+.env
+.venv/
+
+# Data (processed/features are regenerated)
+data/processed/
+data/features/
+data/feedback_log.json
+
+# Models (regenerated at build time)
+models/*.joblib
+models/*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+# Docker
+docker/data/
+
+# Misc
+*.log
+*.tmp

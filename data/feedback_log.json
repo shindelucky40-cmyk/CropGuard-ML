@@ -1,0 +1,134 @@
+[
+  {
+    "district": "Nashik",
+    "crop": "Onion",
+    "season": "Rabi",
+    "year": 2025,
+    "actual_yield_kg_ha": 18000.0,
+    "actual_disease_observed": null,
+    "farmer_name": null,
+    "comments": "Good season",
+    "submitted_at": "2026-03-06T19:14:40.934974"
+  },
+  {
+    "district": "Nashik",
+    "crop": "Onion",
+    "season": "Rabi",
+    "year": 2025,
+    "actual_yield_kg_ha": 18000.0,
+    "actual_disease_observed": null,
+    "farmer_name": null,
+    "comments": "Good season",
+    "submitted_at": "2026-03-06T19:14:59.658957"
+  },
+  {
+    "district": "Nashik",
+    "crop": "Onion",
+    "season": "Rabi",
+    "year": 2025,
+    "actual_yield_kg_ha": 18000.0,
+    "actual_disease_observed": null,
+    "farmer_name": null,
+    "comments": "Good season",
+    "submitted_at": "2026-03-06T19:15:16.132579"
+  },
+  {
+    "district": "Nashik",
+    "crop": "Onion",
+    "season": "Rabi",
+    "year": 2025,
+    "actual_yield_kg_ha": 18000.0,
+    "actual_disease_observed": null,
+    "farmer_name": null,
+    "comments": "Good season",
+    "submitted_at": "2026-03-06T19:15:31.173667"
+  },
+  {
+    "district": "Nashik",
+    "crop": "Onion",
+    "season": "Rabi",
+    "year": 2025,
+    "actual_yield_kg_ha": 18000.0,
+    "actual_disease_observed": null,
+    "farmer_name": null,
+    "comments": "Good season",
+    "submitted_at": "2026-03-06T19:16:06.109768"
+  },
+  {
+    "district": "Nashik",
+    "crop": "Onion",
+    "season": "Rabi",
+    "year": 2025,
+    "actual_yield_kg_ha": 18000.0,
+    "actual_disease_observed": null,
+    "farmer_name": null,
+    "comments": "Good season",
+    "submitted_at": "2026-03-06T19:16:24.741690"
+  },
+  {
+    "district": "Nashik",
+    "crop": "Onion",
+    "season": "Rabi",
+    "year": 2025,
+    "actual_yield_kg_ha": 18000.0,
+    "actual_disease_observed": null,
+    "farmer_name": null,
+    "comments": "Good season",
+    "submitted_at": "2026-03-07T11:23:40.449889"
+  },
+  {
+    "district": "Nashik",
+    "crop": "Onion",
+    "season": "Rabi",
+    "year": 2025,
+    "actual_yield_kg_ha": 18000.0,
+    "actual_disease_observed": null,
+    "farmer_name": null,
+    "comments": "Good season",
+    "submitted_at": "2026-03-07T14:54:02.021495"
+  },
+  {
+    "district": "Nashik",
+    "crop": "Onion",
+    "season": "Rabi",
+    "year": 2025,
+    "actual_yield_kg_ha": 18000.0,
+    "actual_disease_observed": null,
+    "farmer_name": null,
+    "comments": "Good season",
+    "submitted_at": "2026-03-07T14:54:18.795785"
+  },
+  {
+    "district": "Nashik",
+    "crop": "Onion",
+    "season": "Rabi",
+    "year": 2025,
+    "actual_yield_kg_ha": 18000.0,
+    "actual_disease_observed": null,
+    "farmer_name": null,
+    "comments": "Good season",
+    "submitted_at": "2026-03-07T14:54:35.294847"
+  },
+  {
+    "district": "Nashik",
+    "crop": "Onion",
+    "season": "Rabi",
+    "year": 2025,
+    "actual_yield_kg_ha": 18000.0,
+    "actual_disease_observed": null,
+    "farmer_name": null,
+    "comments": "Good season",
+    "submitted_at": "2026-03-07T14:54:50.947182"
+  },
+  {
+    "district": "Nashik",
+    "crop": "Onion",
+    "season": "Rabi",
+    "year": 2025,
+    "actual_yield_kg_ha": 18000.0,
+    "actual_disease_observed": null,
+    "farmer_name": null,
+    "comments": "Good season",
+    "submitted_at": "2026-03-07T15:04:28.573491"
+  }
+]
